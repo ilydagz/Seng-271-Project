@@ -1,0 +1,41 @@
+Amfi 1, Regular, 100, true
+Amfi 2, Regular, 100, true
+Amfi 3, Regular, 100, true
+H301, Lab, 35, true
+Amfi 4, Regular, 100, true
+H302, Lab, 35, true
+Amfi 5, Regular, 100, true
+H303, Lab, 25, true
+Amfi 6, Regular, 100, true
+MA01, Regular, 80, true
+MA02, Regular, 80, true
+H304, Lab, 30, true
+MA03, Regular, 80, true
+H305, Lab, 35, true
+MB06, Regular, 60, true
+H306, Lab, 35, true
+MB07, Regular, 90, true
+M101, Regular, 70, true
+M102, Regular, 50, true
+H307, Lab, 30, true
+M103, Regular, 80, true
+H308, Lab, 40, true
+M104, Regular, 80, true
+H309, Lab, 30, true
+L101, Regular, 70, true
+L102, Regular, 80, true
+NA01, Regular, 80, true
+H310, Lab, 35, true
+NA02, Regular, 80, true
+H311, Lab, 30, true
+NA03, Regular, 70, true
+H312, Lab, 35, true
+H101, Regular, 80, true
+H102, Regular, 80, true
+H103, Regular, 80, true
+M201, Regular, 90, true
+M202, Regular, 90, true
+M203, Regular, 90, true
+M204, Regular, 80, true
+N101, Regular, 80, true
+N102, Regular, 80, true

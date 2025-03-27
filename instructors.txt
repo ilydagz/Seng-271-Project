@@ -1,0 +1,19 @@
+İpek Güler, PHYS 131
+Nur Yılmaz, MATH 158
+Ali Kiracı, PHYS 132
+Naim Atabağsoy, TURK 102, TURK 101
+Gül Kaya, ENG 121
+Ceylan Yalçın, MATH 157, MATH 223
+Banu Kaya, BIO 101
+Cansel Atmaca, ESR 103
+Sadık Eşmelioğlu, SENG 101, SENG 102, SENG 303, SENG 491, SENG 492
+Tüzel Atıcı, HIST 201, HIST 202
+Bora Çelikkale, SENG 201, SENG 383, SENG 426
+Erkan Murat Türkan, SENG 203
+Sevgi Tunç, SENG 206, SENG 301, SENG 474
+Mehmet Tolun, SENG 271
+Bilgin Avenoğlu, SENG 315, SENG 429, SENG 465
+
+
+
+

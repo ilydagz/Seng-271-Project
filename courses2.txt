@@ -1,0 +1,33 @@
+PHYS 131, Physics I / Fizik I, 80, 4, 2, 1, İpek Güler, true, true, fall
+MATH 158, Mühendisler için Matematik II, 80,4, 0, 1, Nur Yılmaz, true, true, spring
+PHYS 132, Physics II,80, 4, 2, 1, Ali Kiracı, true, true, spring
+TURK 102, Turkish II / Türk Dili II,80, 2, 0, 1, Naim Atabağsoy, true, true, spring
+TURK 101, Turkish I / Türk Dili I,80, 2, 0, 1, Naim Atabağsoy, true, true, fall
+ENG 121, Academic English I / Akademik İngilizce I, 80,3, 0, 1, Gül Kaya, true, true, fall
+MATH 157, Calculus for Engineering I / Mühendisler için Genel Matematik I, 80,4, 0, 1, Ceylan Yalçın, true, true, fall
+BIO 101, Introduction to Biology,80, 3, 0, 1, Banu Kaya, true, true, fall
+ESR 103, Ethical Principles and Social Responsibility,80, 1, 0, 1, Cansel Atmaca, true, true, fall
+SENG 101, Computer Programming I / Bilgisayar Programlama I, 80,3, 2, 1, Sadık Eşmelioğlu,false, true, fall
+SENG 102, Computer Programming II / Bilgisayar Programlama II, 80,3, 2, 1, Sadık Eşmelioğlu,false, false, spring
+HIST 201, Principles of Atatürk and History of Turkish Revolution I / Atatürk İlke ve İnkilap Tarihi I, 80,2, 0, 2, Tüzel Atıcı, true, true, fall
+MATH 223, Discrete Structures, 80,3, 2, 2, Ceylan Yalçın,false, true, fall
+SENG 201, Data Structures, 80,3, 2, 2, Bora Çelikkale,false, true, fall
+SENG 203, Discrete Structures, 80,3, 0, 2, Erkan Murat Türkan,false, true, fall
+SENG 206, Software Design, 80,3, 0, 2, Sevgi Tunç,false, true, fall
+SENG 271, Software Project I / Yazılım Projesi I, 80,2, 0, 2, Mehmet Tolun,false, true, fall
+SENG 301, Software Project Management, 80,2, 2, 3, Sevgi Tunç,falsei true, fall
+SENG 303, Software Testing for Quality Assurance, 80,3, 0, 3, Sadık Eşmelioğlu,false, true, fall
+SENG 315, Concurrent Programming, 80,3, 0, 3, Bilgin Avenoğlu,false, true, fall
+SENG 383, Software Project III / Yazılım Projesi III, 80,2, 0, 3, Bora Çelikkale,false, true, fall
+SENG 200, Summer Training I / Yaz Stajı I, 80,0, 0, 3, Talha Karadeniz,false, true, fall
+MATH 205, Mühendisler için Matematik III, 80,3, 0, 3, Nur Yılmaz,false, true, fall
+HIST 202, Atatürk İlke ve İnkılap Tarihi II, 80,2, 0, 3, Tüzel Atıcı, true, true, spring
+SENG 474, Human Computer Interaction,80, 3, 0, 4, Sevgi Tunç,false, false, false, fall
+SENG 465, Artificial Intelligence in Game, 80,3, 0, 4, Bilgin Avenoğlu,false, false, fall
+SENG 429, Enterprise Application Development, 80,1, 2, 4, Bilgin Avenoğlu,false, false, fall
+SENG 426, Formal Methods in Software Development, 80,4, 0, 4, Bora Çelikkale,false, true, fall
+SENG 491, Graduation Project I / Mezuniyet Projesi I, 80,1, 4, 4, Sadık Eşmelioğlu,false, true, fall
+SENG 300, Summer Training II / Yaz Stajı II, 80,0, 0, 4, Talha Karadeniz,false, true, fall
+SENG 445, Computer Vision, 80,3, 0, 4, Talha Karadeniz,false, false, fall
+
+
